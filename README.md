@@ -2,7 +2,7 @@
 
 Analyzing 70+ years of reconstructed fisheries catch data to assess the sustainability of Saudi Arabia's Red Sea fishery — trends in catch volume, species concentration, unreported/illegal fishing, discards, and economic value.
 
-Inspired by ongoing research into data-driven approaches to Red Sea fisheries and aquatic food system sustainability (e.g. KAUST's work in this space).
+Inspired by ongoing research into data-driven approaches to Red Sea fisheries and aquatic food system sustainability.
 
 ---
 
