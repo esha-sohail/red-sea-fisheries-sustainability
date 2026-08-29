@@ -86,11 +86,16 @@ red-sea-fisheries-sustainability/
 
 ## Key Insights
 
-*(To be filled in after analysis — replace with your actual findings, each as a one-line takeaway backed by a chart.)*
-
-- Insight 1: ...
-- Insight 2: ...
-- Insight 3: ...
+- Catch has declined 44.6% since its 2010 peak — from 70,964 tonnes (2010) to 39,296 tonnes (2019), following an 8x growth run from 1950-2010.
+- The collapse was driven almost entirely by industrial fishing, not a fishery-wide decline — industrial catch fell 66.6% in a single year (2010→2011) and never     recovered, while artisanal catch stayed flat and has grown modestly since.
+- The fishery has structurally reverted to its 1950s-70s shape — industrial bottom-trawl demersal fishing once accounted for ~29% of all catch (1980-2009) alone,    then collapsed 89% in the recent period; artisanal fishing is dominant again.
+- Clear "fishing down the food web" signal — large sharks, large reef fish, and large pelagics have all shrunk as a share of total catch since the 1950s-70s,        replaced by smaller, lower-trophic-level species. This independently reproduces findings from published Red Sea research (Berumen et al.) on shrinking baselines.
+- Bottom trawling drives virtually 100% of discarded catch — 206,554 tonnes (8.25% of all catch ever recorded) was discarded, almost entirely via one non-           selective gear type.
+- One species — slipmouths/ponyfishes — accounts for 63% of all discards, with every single tonne ever caught of that species discarded, none landed.
+- Unreported catch is at its highest sustained level since the 1950s — averaging ~29% from 2011-2019, coinciding with the shift back toward harder-to-monitor        artisanal fishing.
+- Value per tonne dropped and hasn't recovered — falling from $2,396/tonne (2010) to as low as $1,473/tonne (2012), still below 2000s levels by 2019 — the fishery   is catching less, and what it catches is worth less.
+- A large share of historical catch was never identified to species level ("Marine fishes not identified" is the single largest category in the dataset, 2.3x the    top named species) — a meaningful data-coverage gap for any species-specific conclusions.
+- Data confidence varies by estimation method, not by fishing type — industrial catch estimates carry the highest uncertainty scores despite being the most          formally documented sector, indicating the metric reflects reconstruction methodology rather than real-world monitoring quality.
 
 ---
 
