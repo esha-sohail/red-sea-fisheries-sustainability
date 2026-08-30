@@ -1,0 +1,8 @@
+-- question -01 
+-- Question: How has total fisheries catch (in tonnes) changed year by year from 1950 to present?
+-- Columns needed: year, tonnes
+select year,
+sum(tonnes) as total_catch
+from fishries_data
+group by year
+order by year;
