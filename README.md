@@ -49,14 +49,11 @@ This project explores whether Saudi Arabia's Red Sea fishery shows signs of over
 
 ```
 red-sea-fisheries-sustainability/
-│
-├── data/
-│   └── raw/                     # Original Sea Around Us export (not committed if large — see .gitignore)
-│
+│                   
 ├── sql/
-│   ├── 01_schema.sql            # Table creation
-│   ├── 02_load_data.sql         # Data import
-│   └── queries/                 # Individual analysis queries (one .sql file per question)
+│   ├── schema.sql            # Table creation
+│   ├── load_data.sql         # Data import
+│   └── queries/                # Individual analysis queries (one .sql file per question)
 │
 ├── dashboard/
 │   └── red_sea_fisheries.pbix   # Power BI dashboard file
