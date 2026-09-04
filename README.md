@@ -98,7 +98,8 @@ red-sea-fisheries-sustainability/
 
 ## Dashboard Preview
 
-*(Add a screenshot or GIF of your Power BI dashboard here once built)*
+<img width="1451" height="867" alt="red sea 3" src="https://github.com/user-attachments/assets/2b618a62-de99-46e0-9b21-5530a3533a5a" />
+
 
 ---
 
